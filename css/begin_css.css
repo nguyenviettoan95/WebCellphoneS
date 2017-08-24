@@ -50,6 +50,12 @@ height: 30px;
   width: 200px;
   float: left;
 }
+.btn-info{
+  background-color: #f61520;
+}
+.btn{
+      margin-top: 20px;
+}
 .nav li{
   float: left;
   display: block;
